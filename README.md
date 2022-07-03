@@ -32,8 +32,16 @@ List of badges I've been using in my repositories:
 
 ---
 
-Misc badges:
+## Misc badges
 
-![logo-terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=terraform)
+Collectionof random badges to be used.
 
-![logo-packer](https://img.shields.io/badge/-packer-blue?style=for-the-badge&logo=packer)
+  ![logo-ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)
+  ![logo-terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=terraform)
+  ![logo-packer](https://img.shields.io/badge/-packer-blue?style=for-the-badge&logo=packer)
+  ![logo-vault](https://img.shields.io/badge/-vault-black?style=for-the-badge&logo=vault)
+  ![logo-consul](https://img.shields.io/badge/-consul-823f63?style=for-the-badge&logo=consul)
+  ![logo-python](https://img.shields.io/badge/-python-ffd343?style=for-the-badge&logo=python)
+  ![logo-aws](https://img.shields.io/badge/-aws-FF9900?style=for-the-badge&logo=amazon-aws)
+
+---
