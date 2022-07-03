@@ -31,3 +31,9 @@ List of badges I've been using in my repositories:
 ![GitHub last commit](https://img.shields.io/github/last-commit/jlambert229/terraform-vsphere-deploy?style=for-the-badge)
 
 ---
+
+Misc badges:
+
+![logo-terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=terraform)
+
+![logo-packer](https://img.shields.io/badge/-packer-blue?style=for-the-badge&logo=packer)
